@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Accessibility Toolkit",
+  "author": "Thomas Allen",
+  "version": "1.0",
+  "description": "A chrome extension with accessibility tools",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "lens-logo.png",
+    "default_title": "Accessibility Toolkit"
+  },
+  "host_permissions": ["<all_urls>"]
+}
